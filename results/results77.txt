@@ -1,0 +1,337 @@
+
+
+Threads: 4 g: 50000 rows: 7 cols: 7 genome_length: 20
+#######
+# #   #
+# ### #
+#     #
+##### #
+#     #
+#######
+Start at (1, 1)
+Finish at (5, 5)
+Genome initialized
+Fitness: 15
+Fitness: 13
+Fitness: 12
+Fitness: 11
+Fitness: 10
+Fitness: 6
+Fitness: 3
+Fitness: 2
+Fitness: 1
+Fitness: 0
+------------------------
+Fitness: 0
+End point: (5, 5)
+Total time: 7.88
+Top genome: {3, 0, 3, 2, 1, 0, 2, 2, 2, 2, 3, 4, 3, 4, 0, 3, 3, 4, 3, 0, }
+
+
+Threads: 4 g: 50000 rows: 7 cols: 7 genome_length: 50
+#######
+# #   #
+# ### #
+#   # #
+### # #
+#     #
+#######
+Start at (1, 1)
+Finish at (5, 5)
+Genome initialized
+Fitness: 16
+Fitness: 12
+Fitness: 11
+Fitness: 8
+Fitness: 7
+Fitness: 5
+Fitness: 4
+Fitness: 3
+Fitness: 2
+Fitness: 1
+Fitness: 0
+------------------------
+Fitness: 0
+End point: (5, 5)
+Total time: 18.01
+Top genome: {3, 0, 0, 0, 3, 2, 2, 3, 3, 4, 3, 2, 1, 4, 4, 3, 4, 3, 0, 3, 2, 2, 4, 3, 4, 3, 0, 1, 1, 0, 0, 0, 1, 0, 2, 0, 0, 4, 4, 0, 1, 2, 0, 3, 0, 4, 3, 3, 2, 2, }
+
+
+Threads: 4 g: 50000 rows: 7 cols: 7 genome_length: 100
+#######
+# #   #
+# # # #
+# # # #
+# ### #
+#     #
+#######
+Start at (1, 1)
+Finish at (5, 5)
+Genome initialized
+Fitness: 33
+Fitness: 32
+Fitness: 28
+Fitness: 27
+Fitness: 26
+Fitness: 25
+Fitness: 24
+Fitness: 23
+Fitness: 22
+Fitness: 21
+Fitness: 20
+Fitness: 19
+Fitness: 18
+Fitness: 17
+Fitness: 15
+Fitness: 14
+Fitness: 13
+Fitness: 12
+Fitness: 11
+------------------------
+Fitness: 11
+End point: (5, 5)
+Total time: 66.1
+Top genome: {0, 3, 4, 2, 3, 3, 4, 0, 0, 3, 0, 3, 0, 0, 3, 0, 0, 2, 2, 3, 1, 1, 0, 2, 1, 4, 3, 2, 1, 0, 2, 0, 1, 3, 2, 4, 1, 4, 0, 3, 2, 1, 2, 1, 2, 2, 1, 2, 0, 0, 2, 2, 4, 3, 3, 1, 2, 0, 1, 2, 4, 4, 3, 3, 1, 2, 1, 2, 1, 4, 1, 0, 0, 0, 1, 1, 3, 4, 3, 2, 3, 1, 4, 2, 3, 0, 2, 2, 0, 2, 0, 1, 2, 3, 1, 0, 2, 3, 2, 0, }
+
+
+Threads: 4 g: 50000 rows: 7 cols: 7 genome_length: 150
+#######
+# #   #
+# ### #
+#   # #
+### # #
+#     #
+#######
+Start at (1, 1)
+Finish at (5, 5)
+Genome initialized
+Fitness: 57
+Fitness: 54
+Fitness: 51
+Fitness: 50
+Fitness: 49
+Fitness: 48
+Fitness: 54
+Fitness: 46
+Fitness: 45
+Fitness: 41
+Fitness: 40
+Fitness: 38
+Fitness: 37
+Fitness: 36
+Fitness: 35
+Fitness: 33
+Fitness: 31
+Fitness: 30
+Fitness: 28
+Fitness: 27
+------------------------
+Fitness: 27
+End point: (5, 5)
+Total time: 48.02
+Top genome: {0, 3, 0, 3, 0, 0, 2, 0, 1, 4, 0, 4, 1, 3, 1, 1, 3, 3, 2, 3, 2, 4, 3, 3, 4, 2, 0, 3, 0, 1, 2, 3, 1, 1, 0, 2, 2, 2, 4, 2, 0, 1, 1, 4, 4, 4, 3, 4, 3, 2, 3, 2, 0, 2, 1, 0, 1, 1, 0, 2, 0, 0, 4, 0, 3, 4, 3, 2, 1, 0, 4, 4, 3, 4, 1, 3, 1, 2, 0, 4, 1, 2, 2, 3, 4, 0, 3, 3, 3, 1, 1, 0, 1, 0, 2, 2, 1, 2, 0, 2, 1, 3, 4, 3, 3, 2, 2, 4, 3, 1, 2, 4, 0, 1, 4, 0, 0, 0, 1, 4, 2, 2, 3, 4, 3, 3, 1, 4, 2, 3, 3, 1, 2, 1, 2, 4, 2, 0, 3, 2, 1, 0, 4, 2, 0, 1, 2, 1, 3, 2, }
+
+
+Threads: 4 g: 50000 rows: 7 cols: 7 genome_length: 200
+#######
+# #   #
+# ### #
+#   # #
+### # #
+#     #
+#######
+Start at (1, 1)
+Finish at (5, 5)
+Genome initialized
+Fitness: 77
+Fitness: 73
+Fitness: 72
+Fitness: 71
+Fitness: 68
+Fitness: 61
+Fitness: 59
+Fitness: 55
+Fitness: 51
+Fitness: 50
+Fitness: 49
+Fitness: 47
+Fitness: 46
+Fitness: 45
+Fitness: 44
+Fitness: 43
+Fitness: 42
+Fitness: 41
+Fitness: 40
+Fitness: 39
+Fitness: 38
+Fitness: 37
+Fitness: 36
+------------------------
+Fitness: 36
+End point: (5, 5)
+Total time: 56.78
+Top genome: {3, 2, 2, 0, 3, 4, 0, 2, 4, 3, 0, 4, 3, 0, 3, 2, 1, 4, 4, 0, 3, 2, 3, 0, 1, 2, 2, 3, 0, 3, 2, 0, 2, 4, 0, 1, 4, 1, 3, 3, 1, 0, 0, 1, 2, 3, 1, 3, 2, 0, 1, 2, 0, 1, 4, 1, 4, 3, 2, 3, 4, 3, 1, 4, 3, 2, 4, 3, 3, 3, 3, 4, 0, 3, 3, 2, 1, 1, 4, 0, 2, 2, 0, 2, 0, 4, 0, 4, 0, 3, 2, 4, 3, 3, 0, 4, 1, 1, 4, 3, 4, 0, 4, 3, 3, 2, 3, 1, 1, 2, 3, 2, 4, 3, 1, 4, 0, 2, 1, 0, 0, 0, 1, 0, 1, 2, 4, 0, 2, 0, 4, 1, 1, 4, 1, 3, 0, 0, 4, 0, 2, 2, 0, 4, 3, 3, 4, 1, 3, 4, 4, 4, 0, 0, 3, 3, 2, 0, 3, 1, 2, 0, 2, 3, 4, 0, 3, 4, 0, 3, 4, 2, 2, 1, 2, 2, 0, 3, 4, 3, 4, 3, 3, 2, 0, 1, 0, 1, 2, 4, 3, 0, 2, 1, 2, 2, 1, 3, 3, 2, }
+
+
+Threads: 8 g: 50000 rows: 7 cols: 7 genome_length: 20
+#######
+#     #
+##### #
+#     #
+# #####
+#     #
+#######
+Start at (1, 1)
+Finish at (5, 5)
+Genome initialized
+Fitness: 14
+Fitness: 12
+Fitness: 10
+Fitness: 9
+Fitness: 8
+Fitness: 7
+Fitness: 6
+Fitness: 5
+Fitness: 4
+------------------------
+Fitness: 4
+End point: (3, 5)
+Total time: 50.6
+Top genome: {2, 1, 2, 0, 1, 2, 2, 0, 1, 2, 0, 0, 2, 1, 0, 0, 2, 2, 3, 3, }
+
+
+Threads: 8 g: 50000 rows: 7 cols: 7 genome_length: 50
+#######
+# #   #
+# ### #
+#   # #
+### # #
+#     #
+#######
+Start at (1, 1)
+Finish at (5, 5)
+Genome initialized
+Fitness: 17
+Fitness: 14
+Fitness: 12
+Fitness: 11
+Fitness: 9
+Fitness: 8
+Fitness: 7
+Fitness: 6
+Fitness: 5
+Fitness: 4
+Fitness: 3
+Fitness: 2
+Fitness: 1
+------------------------
+Fitness: 1
+End point: (5, 5)
+Total time: 75.1
+Top genome: {3, 3, 4, 0, 3, 4, 0, 3, 2, 2, 1, 1, 4, 3, 2, 2, 1, 0, 0, 2, 3, 2, 3, 0, 2, 2, 1, 2, 4, 0, 3, 1, 0, 2, 4, 3, 0, 4, 0, 0, 0, 3, 0, 1, 2, 0, 4, 0, 3, 0, }
+
+
+Threads: 8 g: 50000 rows: 7 cols: 7 genome_length: 100
+#######
+# #   #
+# ### #
+# #   #
+# # # #
+#   # #
+#######
+Start at (1, 1)
+Finish at (5, 5)
+Genome initialized
+Fitness: 32
+Fitness: 30
+Fitness: 27
+Fitness: 25
+Fitness: 24
+Fitness: 23
+Fitness: 22
+Fitness: 21
+Fitness: 19
+Fitness: 18
+Fitness: 17
+Fitness: 15
+Fitness: 14
+Fitness: 13
+Fitness: 11
+Fitness: 10
+------------------------
+Fitness: 10
+End point: (5, 5)
+Total time: 94.75
+Top genome: {3, 3, 0, 4, 2, 3, 0, 3, 0, 0, 3, 1, 4, 0, 0, 4, 1, 3, 4, 0, 0, 4, 3, 3, 4, 3, 0, 4, 1, 4, 0, 3, 0, 1, 0, 4, 2, 3, 3, 4, 3, 3, 0, 2, 2, 1, 0, 2, 1, 0, 0, 2, 0, 1, 2, 4, 2, 3, 1, 2, 3, 1, 2, 3, 1, 0, 1, 0, 0, 4, 3, 2, 0, 0, 0, 1, 4, 3, 2, 0, 3, 0, 2, 1, 1, 0, 2, 2, 4, 0, 0, 3, 4, 4, 2, 1, 2, 2, 3, 3, }
+
+
+Threads: 8 g: 50000 rows: 7 cols: 7 genome_length: 150
+#######
+# #   #
+# # # #
+#   # #
+##### #
+#     #
+#######
+Start at (1, 1)
+Finish at (5, 5)
+Genome initialized
+Fitness: 49
+Fitness: 46
+Fitness: 43
+Fitness: 41
+Fitness: 39
+Fitness: 38
+Fitness: 37
+Fitness: 35
+Fitness: 45
+Fitness: 34
+Fitness: 33
+Fitness: 32
+Fitness: 31
+Fitness: 30
+Fitness: 29
+Fitness: 27
+Fitness: 26
+Fitness: 25
+------------------------
+Fitness: 25
+End point: (5, 5)
+Total time: 82.39
+Top genome: {3, 3, 3, 2, 2, 0, 4, 4, 4, 2, 1, 0, 2, 3, 4, 3, 1, 4, 0, 2, 0, 1, 3, 0, 0, 4, 3, 4, 0, 2, 2, 2, 1, 0, 0, 4, 0, 1, 4, 2, 1, 2, 2, 3, 0, 0, 4, 3, 0, 4, 1, 2, 2, 1, 4, 2, 1, 0, 2, 1, 4, 1, 3, 1, 1, 0, 2, 4, 2, 1, 3, 3, 3, 4, 4, 0, 0, 3, 4, 2, 2, 2, 1, 0, 1, 2, 2, 2, 0, 3, 3, 0, 4, 1, 3, 3, 4, 1, 2, 3, 4, 3, 3, 4, 1, 3, 1, 1, 0, 2, 2, 0, 4, 0, 4, 0, 3, 4, 0, 3, 0, 3, 4, 4, 0, 3, 0, 4, 4, 4, 0, 0, 2, 0, 1, 0, 2, 3, 0, 4, 1, 1, 2, 2, 2, 3, 2, 3, 3, 3, }
+
+
+Threads: 8 g: 50000 rows: 7 cols: 7 genome_length: 200
+#######
+# #   #
+# # # #
+# # # #
+# # # #
+#   # #
+#######
+Start at (1, 1)
+Finish at (5, 5)
+Genome initialized
+Fitness: 67
+Fitness: 61
+Fitness: 60
+Fitness: 58
+Fitness: 57
+Fitness: 56
+Fitness: 55
+Fitness: 54
+Fitness: 53
+Fitness: 49
+Fitness: 46
+Fitness: 44
+Fitness: 42
+Fitness: 40
+Fitness: 38
+Fitness: 37
+Fitness: 36
+Fitness: 35
+------------------------
+Fitness: 35
+End point: (5, 5)
+Total time: 99.85
+Top genome: {2, 4, 3, 4, 0, 3, 4, 2, 2, 3, 4, 3, 0, 3, 0, 0, 4, 0, 2, 3, 0, 0, 0, 2, 4, 0, 3, 3, 0, 4, 3, 3, 2, 2, 3, 1, 1, 4, 2, 3, 0, 3, 3, 3, 2, 1, 2, 2, 1, 2, 0, 4, 3, 0, 0, 1, 2, 1, 3, 3, 1, 0, 2, 2, 4, 4, 0, 3, 0, 3, 1, 0, 2, 4, 4, 3, 4, 3, 4, 4, 2, 3, 0, 0, 4, 0, 1, 4, 1, 3, 0, 3, 4, 4, 3, 4, 0, 2, 2, 1, 1, 3, 4, 0, 3, 0, 3, 4, 3, 0, 4, 3, 3, 4, 3, 2, 1, 4, 0, 1, 2, 0, 4, 0, 3, 4, 3, 3, 2, 4, 0, 0, 4, 3, 4, 4, 3, 0, 3, 3, 3, 0, 4, 3, 4, 3, 2, 0, 3, 0, 1, 2, 3, 1, 2, 4, 4, 4, 0, 4, 0, 0, 0, 3, 0, 1, 2, 0, 3, 2, 3, 1, 4, 4, 4, 3, 2, 4, 1, 3, 0, 0, 4, 2, 2, 3, 2, 3, 1, 0, 3, 0, 4, 1, 3, 4, 3, 1, 1, 3, }
